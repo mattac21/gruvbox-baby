@@ -30,7 +30,7 @@ function M.setup(config)
     Repeat = { fg = c.magenta },
     Label = { fg = c.dark_gray },
     Operator = { fg = c.foreground },
-    Keyword = { fg = c.red, style = config.keyword_style },
+    Keyword = { fg = c.ornage, style = config.keyword_style },
     Exception = { fg = c.magenta },
     PreProc = { fg = c.soft_yellow },
     Include = { fg = c.red },
