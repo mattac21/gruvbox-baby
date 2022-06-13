@@ -5,6 +5,7 @@ local palette = {
   background_dark = "#242424",
   bg_light = "#32302f",
   medium_gray = "#504945",
+  light_gray = "#B09D79",
   comment = "#665c54",
   gray = "#DEDEDE",
   soft_yellow = "#EEBD35",
@@ -15,12 +16,13 @@ local palette = {
   error_red = "#cc241d",
   magenta = "#b16286",
   pink = "#D4879C",
-  light_blue = "#7fa2ac",
+  light_blue = "#83A598",
   dark_gray = "#83a598",
   blue_gray = "#458588",
   forest_green = "#689d6a",
   clean_green = "#8ec07c",
   milk = "#E7D7AD",
+  tan = "#E6B163",
   none = "NONE",
 }
 -- these are backgrounds
